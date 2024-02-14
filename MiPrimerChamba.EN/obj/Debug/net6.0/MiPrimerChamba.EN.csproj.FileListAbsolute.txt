@@ -9,3 +9,4 @@ C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.EN\obj\Debug\
 C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.EN\obj\Debug\net6.0\refint\MiPrimerChamba.EN.dll
 C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.EN\obj\Debug\net6.0\MiPrimerChamba.EN.pdb
 C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.EN\obj\Debug\net6.0\ref\MiPrimerChamba.EN.dll
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.EN\obj\Debug\net6.0\MiPrimerChamba.EN.sourcelink.json
