@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.BL\bin\Debug\net6.0\MiPrimerChamba.BL.deps.json
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.BL\bin\Debug\net6.0\MiPrimerChamba.BL.dll
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.BL\bin\Debug\net6.0\MiPrimerChamba.BL.pdb
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.BL\obj\Debug\net6.0\MiPrimerChamba.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.BL\obj\Debug\net6.0\MiPrimerChamba.BL.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.BL\obj\Debug\net6.0\MiPrimerChamba.BL.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.BL\obj\Debug\net6.0\MiPrimerChamba.BL.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.BL\obj\Debug\net6.0\MiPrimerChamba.BL.dll
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.BL\obj\Debug\net6.0\refint\MiPrimerChamba.BL.dll
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.BL\obj\Debug\net6.0\MiPrimerChamba.BL.pdb
+C:\Users\MINEDUCYT\Desktop\Git\kkkkk\MiPrimerChamba\MiPrimerChamba.BL\obj\Debug\net6.0\ref\MiPrimerChamba.BL.dll
